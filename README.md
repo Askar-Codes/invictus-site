@@ -1,6 +1,6 @@
 # Invictus GO — Website Project
 
-This is a semester project for the Introduction to Web Technologies course. The site is built for Invictus GO, a real gym branch located at Sauran 18
+This is a trimester project for the Introduction to Web Technologies course. The site is built for Invictus GO, a real gym branch located at Sauran 18
 
 ## About the project
 
@@ -19,10 +19,9 @@ Balakhazy Askar — working individually.
 - trainers.html — trainer profiles and opening hours
 - colophon.html — how the site was made and validated
 - images/ — photos used on the site
-- checklist — tag checklist with file and line references
-- report.pdf — Task A and Task B report
+- tag-checklist — tag checklist with file and line references
+- report1.pdf — Task A and Task B report,checklist,README,ai-log
 - ai-log — notes on how AI was used during this project
-
 ## How to view the site
 
 No server or installation needed. Just open index.html directly in a browser, and use the navigation menu to move between pages.
